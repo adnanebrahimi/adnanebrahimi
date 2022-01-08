@@ -25,7 +25,9 @@ Corporate projects and improving my company's infrastructure.
 - Workflow and Project management
 ## 📫 How to reach me: ...
 Twitter: @adnanebrahimi
+
 Email: me@adnanebrahimi.com
+
 My Blog: blog.adnanebrahimi.com
 
 ## Stats:
