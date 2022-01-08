@@ -28,7 +28,7 @@ Twitter: @adnanebrahimi
 
 Email: me@adnanebrahimi.com
 
-My Blog: blog.adnanebrahimi.com
+My Blog: [blog.adnanebrahimi.com](blog.adnanebrahimi.com)
 
 ## Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanebrahimi)](https://github.com/anuraghazra/github-readme-stats)
