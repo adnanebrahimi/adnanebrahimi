@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Several years of experience in Web Development especially in Frontend Development and Micro frontend Architecture. experienced Automation Workflows in Jira, more than 3 years experience in DevOps Engineering, and now looking for Cloud Engineer and Decentralized Apps Development (Dapps) (Web 3.0)
+Several years of experience in Web Development especially in Frontend Development and Micro frontend Architecture. experienced Automation Workflows in Jira, more than 3 years experience in DevOps to implement various CI/CD infrastructure, and now learning Decentralized Apps Development (Dapps) (Web 3.0)
 
-Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 Corporate projects and improving my company's infrastructure.
@@ -13,20 +12,20 @@ Corporate projects and improving my company's infrastructure.
 - System administration
 ## 💬 Ask me about ...
 - Javascript and related topics
+- Angular
+- Module Federation
+- NX
 - Server administrations
 - CI/CD
 - Version Control
-- Caching (Redis, Memcache...)
-- Elastic
 - Docker and Containerization
-- Message Brokers (RabbitMQ)
 - Socket Programming (NAT, Socket.io)
 - Setup and maintening Agile softwares (JIRA)
 - Workflow and Project management
 ## 📫 How to reach me: ...
 Twitter: @adnanebrahimi
 
-Email: me@adnanebrahimi.com
+Email: adnan.ebrahimi@gmail.com
 
 My Blog: [blog.adnanebrahimi.com](blog.adnanebrahimi.com)
 
