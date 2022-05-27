@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-Several years of experience in Web Development especially in Frontend Development and Micro frontend Architecture. experienced Automation Workflows in Jira, more than 3 years experience in DevOps to implement various CI/CD infrastructure, and now learning Decentralized Apps Development (Dapps) (Web 3.0)
+- 15 Years of total experience in software industry, with 5 years in position of principal engineering.
 
+- Experienced in frontend engineering with focused on Angular, NX and Module Federation for large scale applications.
+
+- Architected extensible SPA application(pluggable) for WooCommerce using Angular, NX and MFE Architecture. Built CI/CD for Laravel , Magento, Nodejs based frameworks(Fastify, Nest, Strapi) and SPA(Angular, Nuxt and Next) with release strategy in GitLab. Built various PWA applications that focused on administration and dashboard for businesses. Built LMS system with Angular, NX and Agora that supports video, audio and text in online class with ability to control the class by teacher(mute, unmute and kick) students.
+
+- Eager to learn and keep the skills up to date.
+
+- Passionate to help the developer community and learn from them.
 
 ## 🔭 I’m currently working on ...
 Corporate projects and improving my company's infrastructure.
