@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 15 Years of total experience in software industry, with 5 years in position of principal engineering.
+- more than 15 Years of experience in the software industry, with more than 5 years as a principal engineer.
 
-- Experienced in frontend engineering with focused on Angular, NX and Module Federation for large scale applications.
+- Experienced in frontend engineering focused on Angular, NX, and Module Federation for large-scale applications.
 
-- Architected extensible SPA application(pluggable) for WooCommerce using Angular, NX and MFE Architecture. Built CI/CD for Laravel , Magento, Nodejs based frameworks(Fastify, Nest, Strapi) and SPA(Angular, Nuxt and Next) with release strategy in GitLab. Built various PWA applications that focused on administration and dashboard for businesses. Built LMS system with Angular, NX and Agora that supports video, audio and text in online class with ability to control the class by teacher(mute, unmute and kick) students.
+- Architected extensible SPA application(pluggable) for WooCommerce using Angular, NX, and MFE Architecture. Built CI/CD for Laravel, Magento, Nodejs-based frameworks(Fastify, Nest, Strapi), and SPA(Angular, Nuxt, and Next) with a release strategy in GitLab. Built various PWA applications that focused on administration and dashboards for businesses. Built LMS system with Angular, NX, and Agora that supports video, audio, and text in online classes with the ability to control the class by teacher(mute, unmute, and kick) students.
 
 - Eager to learn and keep the skills up to date.
 
@@ -16,7 +16,7 @@ Corporate projects and improving my company's infrastructure.
 ## 🌱 I’m currently learning ...
 - Python
 - Shell scripting
-- System administration
+- System Administration
 ## 💬 Ask me about ...
 - Javascript and related topics
 - Angular
@@ -27,7 +27,7 @@ Corporate projects and improving my company's infrastructure.
 - Version Control
 - Docker and Containerization
 - Socket Programming (NAT, Socket.io)
-- Setup and maintening Agile softwares (JIRA)
+- Setup and maintaining Agile softwares (JIRA)
 - Workflow and Project management
 ## 📫 How to reach me: ...
 Twitter: @adnanebrahimi
